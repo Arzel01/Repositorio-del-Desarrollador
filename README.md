@@ -4,18 +4,18 @@ Este es mi **sitio personal**, desarrollado como parte del curso de Ingeniería 
 
 ---
 
-## 🌐 URL del sitio desplegado
+## URL del sitio desplegado
 [Ver portafolio en GitHub Pages](https://tuusuario.github.io/nombre-del-repo/)
 
 ---
 
-## 📚 Sobre mí
+## Sobre mí
 
 Hola, soy **José Adrián**, estudiante de Ingeniería en Computación en ESPOL. Me apasiona el desarrollo de software y la creación de proyectos innovadores usando diferentes lenguajes de programación. Este portafolio muestra algunos de los proyectos en los que he trabajado y las tecnologías que manejo.
 
 ---
 
-## 💻 Proyectos
+## Proyectos
 
 ### Proyecto 1: Tic Tac Toe
 - **Descripción:** Aplicación móvil para jugar Tres en Raya (Tic Tac Toe) contra un amigo o un bot. Permite seleccionar niveles de dificultad y lleva un registro simple de las partidas jugadas.  
