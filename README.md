@@ -1,6 +1,6 @@
-# Portafolio de José Andrés Adrián Fierro
+# Portafolio
 
-Este es mi **sitio personal**, desarrollado como parte del curso de Ingeniería en Computación en ESPOL. El sitio sirve como **portafolio en línea**, mostrando una selección de mis proyectos y las tecnologías que he aprendido y aplicado.
+Este es mi **sitio personal**. El sitio sirve como **portafolio en línea**, mostrando una selección de mis proyectos y las tecnologías que he aprendido y aplicado.
 
 
 ## URL del sitio desplegado
@@ -41,7 +41,7 @@ Durante mi formación y proyectos, he trabajado con diversas tecnologías, frame
 - **Python:** Automatización, desarrollo de juegos y análisis de datos.
 
 
-## ✉ Contacto
+## Contacto
 - **Email:** jadrian@espol.edu.ec  
 - **GitHub:** [github.com/arzel01](https://github.com/arzel01)
 
